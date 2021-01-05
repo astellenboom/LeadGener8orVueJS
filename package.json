@@ -12,7 +12,7 @@
     "validate-typescript": "node_modules/.bin/tsc --project /home/joma/entwicklung/nodews/fullstackvue2-vuebnbserver/jsconfig.json --noEmit true --watch true"
   },
   "devDependencies": {
-    "axios": "~0.17",
+    "axios": "~0.21",
     "babel-plugin-transform-class-properties": "~6.24.1",
     "babel-plugin-transform-decorators-legacy": "~1.3.4",
     "cross-env": "~5.1",
